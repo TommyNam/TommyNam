@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @TommyNam
-- 👀 I’m interested in food
-- 🌱 I’m currently learning many things
-- 💞️ I’m looking to collaborate on stuff
-- 📫 How to reach me @thaibobatea
+- 👀 I love trying new foods!
+- 🌱 I’m currently building my portfolio and deepening my programming skills
 - 😄 Pronouns: him
-- ⚡ Fun fact: big strong muscle man
+- ⚡ Fun fact: big strong muscle man that codes
 
 <!---
 TommyNam/TommyNam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
