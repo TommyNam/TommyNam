@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TommyNam
 - 👀 I love trying new foods!
-- 🌱 I’m currently building my portfolio and deepening my programming skills
+- 🌱 I’m currently building my portfolio and deepening my skills as a Coding Apprentice!
 - 😄 Pronouns: him
 - ⚡ Fun fact: big strong muscle man that codes
 
