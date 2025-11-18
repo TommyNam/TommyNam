@@ -5,6 +5,7 @@
 - ⚡ Fun fact: big strong muscle man that codes
 - 
 [![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommynam&show_icons=true&theme=tokyonight)](https://github.com/tommynam/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 - LinkedIn: https://www.linkedin.com/in/tommynam/
 
