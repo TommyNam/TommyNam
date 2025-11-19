@@ -17,7 +17,7 @@
 
 <br>
 
-[![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommynam&show_icons=true&theme=tokyonight&card_width=400&height=215)](https://github.com/tommynam/github-readme-stats)
+[![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommynam&show_icons=true&theme=tokyonight&card_width=400&height=215&include_all_commits=true)](https://github.com/tommynam/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommynam&show_icons=true&theme=tokyonight&langs_count=8&layout=compact&card_width=400&height=215&size_weight=0&count_weight=1)](https://github.com/tommynam/github-readme-stats)
 
 
