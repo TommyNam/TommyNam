@@ -12,7 +12,7 @@
 
 <br>
 <div align="center">
-<img height="700" alt="jpg" align="center" src="https://github.com/TommyNam/TommyNam/blob/main/assets/frieren.jpg">
+<img height="500" alt="jpg" align="center" src="https://github.com/TommyNam/TommyNam/blob/main/assets/frieren.jpg">
 </div>
 
 <br>
