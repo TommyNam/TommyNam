@@ -10,9 +10,6 @@
 </pre>
 </div>
 
-
-<br><br>
-
 <br><br>
 <div align="center">
 <img height="900" alt="jpg" align="center" src="https://github.com/TommyNam/TommyNam/blob/main/assets/frieren.jpg">
