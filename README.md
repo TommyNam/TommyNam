@@ -10,12 +10,12 @@
 </pre>
 </div>
 
-<br><br>
+<br>
 <div align="center">
 <img height="900" alt="jpg" align="center" src="https://github.com/TommyNam/TommyNam/blob/main/assets/frieren.jpg">
 </div>
 
-<br><br>
+<br>
 
 [![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommynam&show_icons=true&theme=tokyonight&card_width=400&height=215)](https://github.com/tommynam/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommynam&show_icons=true&theme=tokyonight&langs_count=8&layout=compact&card_width=400&height=215)](https://github.com/tommynam/github-readme-stats)
