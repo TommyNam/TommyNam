@@ -12,13 +12,10 @@
 
 
 <br><br>
-<div align="center">
-<img height="300" width="235" alt="jpg" align="center" src="https://i.pinimg.com/236x/10/f8/dc/10f8dc659fb260a6cdfec6e754db8303.jpg">
-</div>
 
 <br><br>
 <div align="center">
-<img height="500" alt="jpg" align="center" src="https://github.com/TommyNam/TommyNam/blob/main/assets/frieren.jpg">
+<img height="900" alt="jpg" align="center" src="https://github.com/TommyNam/TommyNam/blob/main/assets/frieren.jpg">
 </div>
 
 <br><br>
