@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=19327f&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hey+you..+;I'm+Tommy+and+welcome+to+my+page!+%E2%9A%A1" width="90%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=1b45d7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hey+you..+;I'm+Tommy+and+welcome+to+my+page!+%E2%9A%A1" width="90%" />
 <br><br>
 <pre>
     💼 B.S. SCIENCE @ UNCC • AI • Game Development
