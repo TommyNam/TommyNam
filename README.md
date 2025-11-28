@@ -4,8 +4,6 @@
 <br><br>
 <pre>
     💼 B.S. SCIENCE @ UNCC • AI • Game Development
-    💻 R2H Coding Apprentice 
-    📖 Software architecture • Distributed systems
     🎮 Gym • Games • Anime • Code
 </pre>
 </div>
